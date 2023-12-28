@@ -72,7 +72,7 @@ const BookDetails = () => {
               <span className='text-italic'>{book?.subject_places}</span>
             </div>
             <div className='book-details-item'>
-              <span className='fw-6'>Peridos de tiempo: </span>
+              <span className='fw-6'>Periodos de tiempo: </span>
               <span className='text-italic'>{book?.subject_times}</span>
             </div>
             <div className='book-details-item'>
