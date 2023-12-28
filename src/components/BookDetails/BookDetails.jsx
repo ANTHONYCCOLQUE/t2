@@ -88,7 +88,7 @@ const BookDetails = () => {
                   <a href={`https://openlibrary.org${book.key}`} target="_blank" rel="noopener noreferrer">
                     {`https://openlibrary.org${book.key}`}
                   </a>
-                ) : "No link found"}
+                ) : "Enlace no encontrado"}
               </span>
             </div>
           
